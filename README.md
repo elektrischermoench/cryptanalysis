@@ -3,7 +3,7 @@ Cryptanalysis of AES cipher based on https://www.davidwong.fr/blockbreakers and 
 
 Example call:
 
-'''shell
+```shell
 $ python3 ./cryptanalysis.py
 
 Prepare for Sqare attack: 
@@ -18,4 +18,4 @@ Key found:
  [0x7e 0xae 0xf7 0xcf]
  [0x15 0xd2 0x15 0x4f]
  [0x16 0xa6 0x88 0x3c]]
-'''
+```
