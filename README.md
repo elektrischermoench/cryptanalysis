@@ -1,4 +1,4 @@
-# crypanalysis
+# cryptanalysis
 Cryptanalysis of AES cipher based on https://www.davidwong.fr/blockbreakers and the great lecture crpytography from Prof. Leander (Ruhr University Bochum).
 
 Example call:
